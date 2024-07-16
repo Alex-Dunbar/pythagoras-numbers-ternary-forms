@@ -1,0 +1,1 @@
+# pythagoras-numbers-ternary-forms
